@@ -1,5 +1,7 @@
 # Pym test
 
+Run `make reload`
+
 This is using raf polling for parent width. Of note: the parent can send a width message(s) before the child is even setup to receive messages.
 
 * See the bottom of preview.html (automatically resizing twice on timeouts)
